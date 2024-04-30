@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "G:\\VS Code\\VS 2022 Projects\\homeworks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF57FAFC-42B3-4F94-BA17-1123974F1B6A}|homework1\\homework1.vcxproj|G:\\VS Code\\VS 2022 Projects\\homeworks\\homework1\\homework1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DF57FAFC-42B3-4F94-BA17-1123974F1B6A}|homework1\\homework1.vcxproj|solutionrelative:homework1\\homework1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3BACBF8A-8C52-480B-9A6F-A588FBB42895}|homework3\\homework3.vcxproj|G:\\VS Code\\VS 2022 Projects\\homeworks\\homework3\\homework3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BACBF8A-8C52-480B-9A6F-A588FBB42895}|homework3\\homework3.vcxproj|solutionrelative:homework3\\homework3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "homework1.cpp",
-              "DocumentMoniker": "G:\\VS Code\\VS 2022 Projects\\homeworks\\homework1\\homework1.cpp",
-              "RelativeDocumentMoniker": "homework1\\homework1.cpp",
-              "ToolTip": "G:\\VS Code\\VS 2022 Projects\\homeworks\\homework1\\homework1.cpp",
-              "RelativeToolTip": "homework1\\homework1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "Title": "homework3.cpp",
+              "DocumentMoniker": "G:\\VS Code\\VS 2022 Projects\\homeworks\\homework3\\homework3.cpp",
+              "RelativeDocumentMoniker": "homework3\\homework3.cpp",
+              "ToolTip": "G:\\VS Code\\VS 2022 Projects\\homeworks\\homework3\\homework3.cpp",
+              "RelativeToolTip": "homework3\\homework3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-30T16:06:54.661Z",
+              "WhenOpened": "2024-04-30T18:12:44.275Z",
               "EditorCaption": ""
             }
           ]
