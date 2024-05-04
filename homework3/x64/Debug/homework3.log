@@ -1,4 +1,4 @@
 ﻿  homework3.cpp
 G:\VS Code\VS 2022 Projects\homeworks\homework3\homework3.cpp(20,30): warning C4305: 'initializing': truncation from 'double' to 'float'
-G:\VS Code\VS 2022 Projects\homeworks\homework3\homework3.cpp(25,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\VS Code\VS 2022 Projects\homeworks\homework3\homework3.cpp(25,22): warning C4305: 'initializing': truncation from 'double' to 'float'
   homework3.vcxproj -> G:\VS Code\VS 2022 Projects\homeworks\x64\Debug\homework3.exe

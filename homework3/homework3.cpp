@@ -10,10 +10,10 @@ using namespace std;
 
 Кількість зірок у галактиці - unsigned long long int (і цього не хватить :) )
 
-Середній рівень випадання опадів за січень - short int
+Середній рівень випадання опадів за січень - short int 
 */
 
-int main() 
+int main()
 {   
     //Завдання 2:
     short int myAge = 24;
@@ -21,8 +21,8 @@ int main()
     unsigned long long int allStartInGalaxy = numeric_limits<unsigned long long int>::max();
     short int avarageAmountOfPrecipitation = 68;
 
-    //Завдання 3:
-    float pi = 3.14159;
+    //Завдання 3: Оголосіть константу = conts перед типом змінної
+    const float pi = 3.14159;
 
     //Завдання 4:
     float newVariable = pi;
