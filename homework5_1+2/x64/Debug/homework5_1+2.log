@@ -1,0 +1,3 @@
+﻿  homework5_1+2.cpp
+G:\VS Code\VS 2022 Projects\homeworks\homework5_1+2\homework5_1+2.cpp(18,20): warning C4244: '=': conversion from 'unsigned long' to 'unsigned short', possible loss of data
+  homework5_1+2.vcxproj -> G:\VS Code\VS 2022 Projects\homeworks\x64\Debug\homework5_1+2.exe

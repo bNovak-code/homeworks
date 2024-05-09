@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "G:\\VS Code\\VS 2022 Projects\\homeworks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BBCDEE4-9C94-4594-832E-E3C6C61A0014}|homework4_1\\homework4_1.vcxproj|G:\\VS Code\\VS 2022 Projects\\homeworks\\homework4_1\\homework4_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6BBCDEE4-9C94-4594-832E-E3C6C61A0014}|homework4_1\\homework4_1.vcxproj|solutionrelative:homework4_1\\homework4_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C666B63E-BDF1-436E-9443-5BBA26402E15}|homework5_5\u002B6\\homework5_5\u002B6.vcxproj|G:\\VS Code\\VS 2022 Projects\\homeworks\\homework5_5\u002B6\\homework5_5\u002B6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C666B63E-BDF1-436E-9443-5BBA26402E15}|homework5_5\u002B6\\homework5_5\u002B6.vcxproj|solutionrelative:homework5_5\u002B6\\homework5_5\u002B6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "homework4_1.cpp",
-              "DocumentMoniker": "G:\\VS Code\\VS 2022 Projects\\homeworks\\homework4_1\\homework4_1.cpp",
-              "RelativeDocumentMoniker": "homework4_1\\homework4_1.cpp",
-              "ToolTip": "G:\\VS Code\\VS 2022 Projects\\homeworks\\homework4_1\\homework4_1.cpp",
-              "RelativeToolTip": "homework4_1\\homework4_1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
+              "Title": "homework5_5\u002B6.cpp",
+              "DocumentMoniker": "G:\\VS Code\\VS 2022 Projects\\homeworks\\homework5_5\u002B6\\homework5_5\u002B6.cpp",
+              "RelativeDocumentMoniker": "homework5_5\u002B6\\homework5_5\u002B6.cpp",
+              "ToolTip": "G:\\VS Code\\VS 2022 Projects\\homeworks\\homework5_5\u002B6\\homework5_5\u002B6.cpp",
+              "RelativeToolTip": "homework5_5\u002B6\\homework5_5\u002B6.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-04T14:15:36.507Z",
+              "WhenOpened": "2024-05-09T19:30:12.675Z",
               "EditorCaption": ""
             }
           ]
