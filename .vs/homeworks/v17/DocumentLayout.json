@@ -1,69 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "G:\\VS Code\\VS 2022 Projects\\homeworks\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{DD69521B-E24C-448C-811D-3EBD6B0ABF2E}|homework6_2\u002B6\\homework6_2\u002B6.vcxproj|G:\\VS Code\\VS 2022 Projects\\homeworks\\homework6_2\u002B6\\homework6_2\u002B6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DD69521B-E24C-448C-811D-3EBD6B0ABF2E}|homework6_2\u002B6\\homework6_2\u002B6.vcxproj|solutionrelative:homework6_2\u002B6\\homework6_2\u002B6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B20E4715-E0A8-48BD-88D7-4E9E55FAC120}|homework6_1\\homework6_1.vcxproj|G:\\VS Code\\VS 2022 Projects\\homeworks\\homework6_1\\homework6_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B20E4715-E0A8-48BD-88D7-4E9E55FAC120}|homework6_1\\homework6_1.vcxproj|solutionrelative:homework6_1\\homework6_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C666B63E-BDF1-436E-9443-5BBA26402E15}|homework5_5\u002B6\\homework5_5\u002B6.vcxproj|G:\\VS Code\\VS 2022 Projects\\homeworks\\homework5_5\u002B6\\homework5_5\u002B6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C666B63E-BDF1-436E-9443-5BBA26402E15}|homework5_5\u002B6\\homework5_5\u002B6.vcxproj|solutionrelative:homework5_5\u002B6\\homework5_5\u002B6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "homework6_2\u002B6.cpp",
-              "DocumentMoniker": "G:\\VS Code\\VS 2022 Projects\\homeworks\\homework6_2\u002B6\\homework6_2\u002B6.cpp",
-              "RelativeDocumentMoniker": "homework6_2\u002B6\\homework6_2\u002B6.cpp",
-              "ToolTip": "G:\\VS Code\\VS 2022 Projects\\homeworks\\homework6_2\u002B6\\homework6_2\u002B6.cpp",
-              "RelativeToolTip": "homework6_2\u002B6\\homework6_2\u002B6.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-20T20:49:14.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "homework6_1.cpp",
-              "DocumentMoniker": "G:\\VS Code\\VS 2022 Projects\\homeworks\\homework6_1\\homework6_1.cpp",
-              "RelativeDocumentMoniker": "homework6_1\\homework6_1.cpp",
-              "ToolTip": "G:\\VS Code\\VS 2022 Projects\\homeworks\\homework6_1\\homework6_1.cpp",
-              "RelativeToolTip": "homework6_1\\homework6_1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-20T20:45:49.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "homework5_5\u002B6.cpp",
-              "DocumentMoniker": "G:\\VS Code\\VS 2022 Projects\\homeworks\\homework5_5\u002B6\\homework5_5\u002B6.cpp",
-              "RelativeDocumentMoniker": "homework5_5\u002B6\\homework5_5\u002B6.cpp",
-              "ToolTip": "G:\\VS Code\\VS 2022 Projects\\homeworks\\homework5_5\u002B6\\homework5_5\u002B6.cpp",
-              "RelativeToolTip": "homework5_5\u002B6\\homework5_5\u002B6.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-09T19:30:12.675Z"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
