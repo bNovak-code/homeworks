@@ -1,0 +1,5 @@
+﻿  homework9_2.cpp
+G:\VS Code\VS 2022 Projects\homeworks\homework9_2\homework9_2.cpp(17,30): error C2734: 'constPtr': 'const' object must be initialized if not 'extern'
+G:\VS Code\VS 2022 Projects\homeworks\homework9_2\homework9_2.cpp(20,5): error C3892: 'constPtr': you cannot assign to a variable that is const
+G:\VS Code\VS 2022 Projects\homeworks\homework9_2\homework9_2.cpp(24,7): error C3892: 'constPtr': you cannot assign to a variable that is const
+G:\VS Code\VS 2022 Projects\homeworks\homework9_2\homework9_2.cpp(28,5): error C3892: 'constPtr': you cannot assign to a variable that is const
